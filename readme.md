@@ -6,4 +6,5 @@
 
 ## Exercise/Quiz
 
-To be updated!
+1. Real World Semantic Segmentation [[code&results](https://github.com/hibetterheyj/ethz_plr_2022/tree/master/exercise1)] [[report](https://github.com/hibetterheyj/ethz_plr_2022/blob/master/PLR_Exercise1_Yujie_HE.pdf)]
+2. Reinforcement Learning State Representation [[code&results](https://github.com/hibetterheyj/ethz_plr_2022/tree/master/exercise2)] [[report](https://github.com/hibetterheyj/ethz_plr_2022/blob/master/PLR_Exercise2_Yujie_HE.pdf)]
